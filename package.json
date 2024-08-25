@@ -1,0 +1,16 @@
+{
+  "name": "filter-badwords",
+  "version": "1.0.0",
+  
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "author": "Sayan Nag",
+  "license": "MIT",
+  "description": ""
+}
