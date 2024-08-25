@@ -15,7 +15,7 @@ this README's contents appear on the landing page for your package.
 ```
 ## Import
 ```js
-    import filterWord from 'filter-badwords'
+    import filterWord from 'filter-badwords-anylan'
 ```
 ## Usage
 ```js
