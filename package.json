@@ -8,6 +8,7 @@
     "start": "node ./index.js"
   },
   "devDependencies": {
+    
     "nodemon": "^3.1.4"
   },
   "author": "Sayan Nag",

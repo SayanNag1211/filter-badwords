@@ -7,3 +7,5 @@ function filterWord(str,wordList,isStar=true) {
 }
 
 export default filterWord;
+
+console.log("yeahh testing");
